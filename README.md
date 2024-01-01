@@ -4,7 +4,7 @@ The "Stand with Palestine" library/widget is a sticky bottom banner that you can
 ## Usage
 To add the "Stand with Palestine" banner to your website, all you have to do is adding the following script tag to the `<head>` tag or before the end of the `</body>` tag on your website:
 ```html
-<script src="https://webkeyz.github.io/stand-with-palestine/dist/stand-with-palestine-widget.js"></script>
+<script src="https://stand-with-palestine.pages.dev/stand-with-palestine-widget.js"></script>
 ```
 Here's what it looks like ([Live Demo](https://codepen.io/elharony/pen/LYqLGpM)):
 [![Codepen Preview](https://github.com/webkeyz/stand-with-palestine/assets/16986422/dd2369a1-eeda-4e35-a624-690e990e9b61)]([URL_of_Your_CodePen_Project](https://codepen.io/elharony/pen/LYqLGpM))
@@ -23,5 +23,5 @@ We welcome contributions to enhance and improve the "Stand with Palestine" libra
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and ensure that the code is well-documented and tested.
+4. run the build command `npm run build`.
 4. Submit a pull request.
-
